@@ -1,0 +1,164 @@
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+rrrrrrrr
+---------BTREE is now like this ---------
+43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+469
+43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 469
+336
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 502
+ 469
+336
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 502
+ 469
+336
+ 171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 726
+502
+ 469
+336
+ 171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 726
+502
+ 480
+ 469
+336
+ 171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+     726
+ 502
+     480
+469
+     360
+ 336
+     171
+      43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 8
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+d
+469
+USER NUMBER IS 469
+336
+ 171
+  43
+171
+  43
+---------BTREE is now like this ---------
+     726
+ 502
+     480
+360
+     336
+ 171
+      43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 7
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+d
+360
+USER NUMBER IS 360
+---------BTREE is now like this ---------
+ 726
+502
+ 480
+336
+ 171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 6
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+d
+502
+USER NUMBER IS 502
+ 726
+502
+480
+ 171
+  43
+ 726
+502
+171
+  43
+---------BTREE is now like this ---------
+ 726
+502
+ 480
+171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+d
+12
+NOT IN THIS B-TREE
+---------BTREE is now like this ---------
+ 726
+502
+ 480
+171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 5
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+o
+---------BTREE is now like this ---------
+ 726
+502
+ 480
+171
+  43
+---------BTREE COPY is now like this ---------
+ 726
+502
+ 480
+171
+  43
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+c
+---------BTREE is now like this ---------
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 0
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+rrrr
+---------BTREE is now like this ---------
+964
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+964
+466
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 964
+707
+ 466
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+---------BTREE is now like this ---------
+ 964
+707
+ 466
+ 147
+[R]andon [I]nsert [C]lear c[O]py [D]elete [F]ind [S]ize [E]xit
+s
+Size is: 4
